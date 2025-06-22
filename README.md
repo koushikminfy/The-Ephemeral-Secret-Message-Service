@@ -42,6 +42,7 @@ bun start
 
 **Success Response (201 Created):**
 
+---
 
 ### POST `/messages` – Validation Failure
 
